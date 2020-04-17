@@ -15,6 +15,8 @@ export class Exercice1Component implements OnInit {
   //   console.log('window:click ==> ' + $event);
   // }
 
+  // public basicColor: any;
+
   constructor() {
   }
 
